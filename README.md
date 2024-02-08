@@ -4,11 +4,11 @@ This is a front-end React application that is specifically designed for integrat
 
 <center><div style="display: inline_block"><br/>
 <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-<img align="center" alt="jvmh-typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="reactjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="react-router" height="50" width="80" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.svg" />
-<img align="center" alt="jvmh-font-awesome" height="50" width="50" src="https://img.jsdelivr.com/github.com/FortAwesome.png" />
-<img align="center" alt="jvmh-tailwindcss" height="50" width="50" src="https://www.svgrepo.com/show/349330/css3.svg" />
+<img align="center" alt="font-awesome" height="50" width="50" src="https://img.jsdelivr.com/github.com/FortAwesome.png" />
+<img align="center" alt="tailwindcss" height="50" width="50" src="https://www.svgrepo.com/show/349330/css3.svg" />
 </center>
 
 ## Features
