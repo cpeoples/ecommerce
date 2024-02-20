@@ -3,7 +3,7 @@
 This is a front-end React application that is specifically designed for integrating functional and unit tests.
 
 <center><div style="display: inline_block"><br/>
-<img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+<img align="center" alt="nodejs" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" alt="typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="reactjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="react-router" height="50" width="80" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.svg" />
