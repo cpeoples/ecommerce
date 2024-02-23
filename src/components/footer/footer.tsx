@@ -31,21 +31,17 @@ const Footer = () => {
           <div className="socials">
             <h3>CONTACTS: </h3>
             <a
-              href="https://github.com/sweta1308"
+              href="https://github.com/cpeoples"
               target="_blank"
               rel="noreferrer"
             >
               <i className="fa-brands fa-github fa-lg"></i> Github
             </a>
-            <a
-              href="https://twitter.com/AgarwallaSweta"
-              target="_blank"
-              rel="noreferrer"
-            >
+            <a href="https://twitter.com" target="_blank" rel="noreferrer">
               <i className="fa-brands fa-twitter fa-lg"></i> Twitter
             </a>
             <a
-              href="https://www.linkedin.com/in/sweta-agarwalla-45aa2324a/"
+              href="https://www.linkedin.com/in/chrispeoples/"
               target="_blank"
               rel="noreferrer"
             >
